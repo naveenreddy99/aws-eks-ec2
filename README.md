@@ -64,3 +64,7 @@ Need to grant access to work CodeBuild. So run edit command and add below recode
 ```
 Finaly Uplode the code change into the `CodeCommit.
 ![text](/alb-config/pipeline-webapp.PNG)
+
+# Sample Network Diagram
+
+![text](/alb-config/fiver-eks.png)
